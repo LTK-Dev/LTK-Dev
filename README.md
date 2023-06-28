@@ -1,13 +1,14 @@
+<img src="https://github.com/LTK-Dev/LTK-Dev/assets/126476445/b4149616-65e5-4c43-b815-ebcee1ca91a4" />
 <h1 align="center">Hi 👋, I'm Le Tuan Kiet</h1>
 <h3 align="center">An ambitious student from Vietnam</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ltk-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kiet le" target="blank"><img src="https://img.shields.io/twitter/follow/kiet le?logo=twitter&style=for-the-badge" alt="kiet le" /></a> </p>
 
-- 🔭 I’m currently working on **MySQL**
 
-- 🌱 I’m currently learning in **VNU University of Engineering and Technology**
+
+- 🌱 I’m currently learning in **VNU UET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LTK-Dev](https://github.com/LTK-Dev)
 
