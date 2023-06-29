@@ -1,13 +1,8 @@
 <img src="https://github.com/LTK-Dev/LTK-Dev/assets/126476445/b4149616-65e5-4c43-b815-ebcee1ca91a4" />
 <h1 align="center">Hi 👋, I'm Le Tuan Kiet</h1>
 <h3 align="center">An ambitious student from Vietnam</h3>
-
-
+<img align="right" alt="coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdyZWlrNXNtdTNidndsc281aHJ4aG5xOGc2ZmI3cmlnZHpueXRhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ltk-dev" /> </p>
-
-
-
-
 - 🌱 I’m currently learning in **VNU UET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LTK-Dev](https://github.com/LTK-Dev)
@@ -30,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ltk-dev&show_icons=true&locale=en" alt="ltk-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ltk-dev&" alt="ltk-dev" /></p>
+<img align = "center" src="https://github.com/LTK-Dev/LTK-Dev/assets/126476445/91c27edc-3aea-4eee-b228-1757cecf26ba"/>
+<h3 align="center">Thanks for stopping by,happy coding!!!</h3>
