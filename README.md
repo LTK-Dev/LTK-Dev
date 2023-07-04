@@ -1,6 +1,6 @@
 <img src="https://github.com/LTK-Dev/LTK-Dev/assets/126476445/b4149616-65e5-4c43-b815-ebcee1ca91a4" />
 
-<h1 align= "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C38F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Le+Tuan+Kiet;An+ambitious+student+from+Vietnam+%F0%9F%A6%BE;Majoring+in+Information+System+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a></h1>
+<h1 align= "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C38F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Le+Tuan+Kiet;Learning+in+VNU+-+UET+Vietnam+%F0%9F%A6%BE;Majoring+in+Information+System+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a></h1>
 
 <img align="right" alt="coding" width = 300px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdyZWlrNXNtdTNidndsc281aHJ4aG5xOGc2ZmI3cmlnZHpueXRhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h3 align="left">About Me:</h3>
@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ltk-dev&" alt="ltk-dev" /></p>
 <img align = "center" src="https://github.com/LTK-Dev/LTK-Dev/assets/126476445/91c27edc-3aea-4eee-b228-1757cecf26ba"/>
-<h3 align="center">Thanks for stopping by,happy coding!!!</h3>
+<h3 align="center">Thanks for stopping by, happy coding!!!</h3>
