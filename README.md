@@ -2,15 +2,15 @@
 
 <h1 align= "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C38F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Le+Tuan+Kiet;Learning+in+VNU+-+UET+Vietnam+%F0%9F%A6%BE;Majoring+in+Information+System+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a></h1>
 
-<img align="right" alt="coding" max-width = 250px; src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdyZWlrNXNtdTNidndsc281aHJ4aG5xOGc2ZmI3cmlnZHpueXRhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding" width = 250px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdyZWlrNXNtdTNidndsc281aHJ4aG5xOGc2ZmI3cmlnZHpueXRhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h3 align="left">About Me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ltk-dev" /> </p>
 
 - 🌱 I’m currently learning in **VNU UET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LTK-Dev](https://github.com/LTK-Dev)
-
 - 📫 How to reach me **kiex8888@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/LTK-Dev](https://github.com/LTK-Dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
